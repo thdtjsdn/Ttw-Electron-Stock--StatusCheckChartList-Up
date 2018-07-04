@@ -88,14 +88,20 @@
 								<div class="item" data-value="area30">area30</div>
 								<div class="item" data-value="area60">area60</div>
 								<div class="item" data-value="area90">area90</div>
+								<div class="item" data-value="area120">area120</div>
+								<div class="item" data-value="area150">area150</div>
 								<div class="item" data-value="bar">bar</div>
 								<div class="item" data-value="bar30">bar30</div>
 								<div class="item" data-value="bar60">bar60</div>
 								<div class="item" data-value="bar90">bar90</div>
+								<div class="item" data-value="bar120">bar120</div>
+								<div class="item" data-value="bar150">bar150</div>
 								<div class="item" data-value="discrete">discrete</div>
 								<div class="item" data-value="discrete30">discrete30</div>
 								<div class="item" data-value="discrete60">discrete60</div>
 								<div class="item" data-value="discrete90">discrete90</div>
+								<div class="item" data-value="discrete120">discrete120</div>
+								<div class="item" data-value="discrete150">discrete150</div>
 								<div class="item" data-value="line">line</div>
 								<div class="item" data-value="line30">line30</div>
 								<div class="item" data-value="line60">line60</div>
@@ -105,7 +111,9 @@
 								<div class="item" data-value="line_min_max">line_min_max</div>
 								<div class="item" data-value="line_min_max30">line_min_max30</div>
 								<div class="item" data-value="line_min_max60">line_min_max60</div>
-								<div class="item" data-value="line_min_max60">line_min_max90</div>
+								<div class="item" data-value="line_min_max90">line_min_max90</div>
+								<div class="item" data-value="line_min_max120">line_min_max120</div>
+								<div class="item" data-value="line_min_max150">line_min_max150</div>
 							</div>
 						</div>
 					</div>
