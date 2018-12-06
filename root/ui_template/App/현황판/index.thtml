@@ -75,7 +75,7 @@
 
 		<div class="ui tiny form" style="width: 790px; height: 60px;">
 			<div class="field">
-				<div class="four fields">
+				<div class="five fields">
 
 					<div class="field">
 						<label>차트 종류 선택</label>
@@ -122,18 +122,23 @@
 						<label>상가 체크 %값(숫자만 입력)</label>
 						<input id="input-up_check_limit" type="text" placeholder="기본 값 4">
 					</div>
+
 					<div class="field">
 						<label>하가 체크 %값(-와 숫자 입력)</label>
 						<input id="input-down_check_limit" type="text" placeholder="기본 값 -4">
 					</div>
 
 					<div class="field">
-						<label>KOSPI 새로고침</label>
-						<button id="btn-re-p" class="ui tiny button">코스피</button>
+						<label>Reload Buttons</label>
+						<button id="btn-re-p" class="ui tiny button" style="display: contents;">코스피</button>
+						<button id="btn-re-q" class="ui tiny button" style="display: contents;">코스닥</button>
 					</div>
+
 					<div class="field">
-						<label>KOSDAQ 새로고침</label>
-						<button id="btn-re-q" class="ui tiny button">코스닥</button>
+						<label>Save Buttons</label>
+						<button id="btn-save-p" class="ui tiny button" style="display: contents;">코스피</button>
+						<button id="btn-save-q" class="ui tiny button" style="display: contents;">코스닥</button>
+						<button id="btn-save-a" class="ui tiny button" style="display: contents;">전체</button>
 					</div>
 				</div>
 			</div>
